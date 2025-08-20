@@ -23,7 +23,7 @@ st.code("""
 #include <stdio.h>
 
 int main() {
-    printf("혜주");
+    printf("쭈 언니 바보");
 
     return 0;
 }
